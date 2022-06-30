@@ -7,7 +7,6 @@ import com.example.synonymssearchtoolapp.feature.data.local.SynonymDatabase
 import com.example.synonymssearchtoolapp.feature.data.remote.SynonymApi
 import com.example.synonymssearchtoolapp.feature.data.repository.SynonymRepositoryImpl
 import com.example.synonymssearchtoolapp.feature.data.util.GsonParser
-import com.example.synonymssearchtoolapp.feature.data.util.JsonParser
 import com.example.synonymssearchtoolapp.feature.domain.repository.SynonymRepository
 import com.example.synonymssearchtoolapp.feature.domain.use_case.GetSynonym
 import com.google.gson.Gson
